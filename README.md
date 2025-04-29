@@ -9,9 +9,11 @@ Introduction to exploratory data analysis and effective technical reporting.
 Select one of the following datasets to generate marketing insights:
 	Retail Sales Data (Marketing-Focused)
 
-  **Deliverbles**
+  **Deliverables**
 •	Dataset Familiarization: Open one of the provided dataset to understand its structure and contents.
+
 •	Identify the key variables and data types (e.g., numerical, categorical).
+
 •	Initial Data Exploration: Conduct a quick review of the dataset without deep analysis.
 •	Look for obvious patterns, trends, or anomalies in the data.
 •	Insight Identification: Note any initial insights that can be immediately observed from the dataset.
