@@ -25,7 +25,9 @@ Select one of the following datasets to generate marketing insights:
 •	Introduction: Briefly describe the dataset and the purpose of the review.
 
 •	Observations: Present the initial insights you identified, supported by basic visualizations or summary statistics if necessary.
+
 •	Conclusion: Summarize your observations and suggest potential areas for further analysis.
-•	Deliverables:Insights such as top-selling products, user trends, or traffic sources.
+
+•	Deliverables: Insights such as top-selling products, user trends, or traffic sources.
 
 
