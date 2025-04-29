@@ -1,18 +1,18 @@
 # HNG-12
-Internship Projects
-Task Description:
-To examine the dataset, identify initial insights at first glance, and write a brief technical report detailing your observations.
+**Task Description:**
+Examine the dataset, identify initial insights at first glance, and write a brief technical report detailing your observations.
+
 **Objective:**
 Introduction to exploratory data analysis and effective technical reporting.
-Task:
+
  **Dataset:**
 Select one of the following datasets to generate marketing insights:
 	Retail Sales Data (Marketing-Focused)
 
-	**Identify Key Insights:**
+**Identify Key Insights:**
 	Discover insights such as top-selling products, user trends, or traffic sources.
-1.	Document Findings: Write a professional technical report titled “Marketing Insight Report.” Include key observations
-2.	Publish and Review: Submit the report for mentor review.
+	Document Findings: Write a professional technical report titled “Marketing Insight Report.” Include key observations
+	Publish and Review: Submit the report for mentor review.
    **Steps to Complete the Task**
 •	Dataset Familiarization: Open one of the provided dataset to understand its structure and contents.
 •	Identify the key variables and data types (e.g., numerical, categorical).
